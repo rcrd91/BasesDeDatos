@@ -1,4 +1,4 @@
-# Parte formativa de Bases de Datos (MF0226)
+# Bases de Datos
 • Modelo Relacional <br>
 • Modelo entidad-relación <br>
 • Normalización <br>
