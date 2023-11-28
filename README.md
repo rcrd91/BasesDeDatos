@@ -1,2 +1,7 @@
-# Parte formativa de POO - MF0227
-• La parte práctica son 3 aplicaciones móviles con Kotlin en Android Studio (privadas)
+# Parte formativa de Bases de Datos (MF0226)
+• Modelo Relacional <br>
+• Modelo entidad-relación <br>
+• Normalización <br>
+• Consultas <br>
+• Subconsultas <br>
+• Procedimientos almacenados <br>
